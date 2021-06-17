@@ -67,7 +67,7 @@ The exercise requires a single OpenSees script file. The user is required to dow
 1. :qfem-0007:`Frame2FEM.tcl <src/Frame2FEM.tcl>` 
 
     .. literalinclude:: src/Frame2FEM.tcl
-       :language: tcl
+
 
 .. note::
    1. The tcl script when it runs creates a ``results.out``. As a consequence, no postprocessing script is needed. 

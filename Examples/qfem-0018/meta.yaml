@@ -1,14 +1,12 @@
-summary: In this example, the parameters of the STEEL02 material model in OpenSees
-are calibrated using non-linear least squares optimization. Experimental data is
-passed in to quoFEM from an external file, and the output is the time-history of
-stress - a non-scalar response quantity.
-archive: $SIMCENTER_DEV
-archive_location: quoFEM/examples/qfem-0018
+summary: |
+  In this example, the parameters of the STEEL02 material model in OpenSees
+  are calibrated using non-linear least squares optimization. Experimental data is
+  passed in to quoFEM from an external file, and the output is the time-history of
+  stress - a non-scalar response quantity.
 author:
 - family: Bangalore Satish
   given: Aakash
 collection-title: Material Model
 id: qfem-0018
 title: Material Model Parameter Calibration
-type: book
 difficulty: 0

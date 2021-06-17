@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
     <collection id="feed-0002" >
-  <tag-scheme key="">
-      <tag-scheme src="$SIMCENTER_DEV/SimCenterDocumentation/docs/common/requirements/tags.xml#UV" />
-      <tag-scheme src="$SIMCENTER_DEV/SimCenterDocumentation/docs/common/requirements/tags.xml#UR" />
-      <tag-scheme src="$SIMCENTER_DEV/SimCenterDocumentation/docs/common/requirements/tags.xml#UM" />
-  </tag-scheme>
   <category-schemes>
     <category-scheme key="Simulation">
       <var src="./src/input.json#/fem/program" />
       <map>
         <str key="OpenSees">OpenSees</str>
         <str key="OpenSeesPy">OpenSeesPy</str>
-        <str key="FEAP">FEAP</str>
+        <str key="FEAPpv">FEAP</str>
         <str key="None">-</str>
       </map>
     </category-scheme>
@@ -42,5 +37,7 @@
     <map id="qfem-0015" base="qfem" type="qfem" published="2021-03-12T21:26:53.946381-08:00"/>
     <map id="qfem-0016" base="qfem" type="qfem" published="2021-03-12T21:26:53.946381-08:00"/>
     <map id="qfem-0017" base="qfem" type="qfem" published="2021-03-12T21:26:53.946381-08:00"/>
+    <map id="qfem-0018" base="qfem" type="qfem" published="2021-07-01T21:26:53.946381-08:00"/>
+    <map id="qfem-0019" base="qfem" type="qfem" published="2021-07-01T21:26:53.946381-08:00"/>
   </items>
 </collection>

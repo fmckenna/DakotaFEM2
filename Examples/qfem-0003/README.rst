@@ -19,7 +19,7 @@ magnitudes whose probabilities of exceedance are 0.02, 0.2, 0.4, 0.6,
 
 .. figure:: qfem-0003.png
    :width: 500px
-   :align:center
+   :align: center
 
 The following parameters are defined in the **RV** tab of quoFEM:
 
